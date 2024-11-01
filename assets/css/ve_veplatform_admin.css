@@ -1,0 +1,41 @@
+@font-face {
+    font-family: NotoMono-Regular;
+    src: url(../fonts/NotoMono-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: AvenirNext;
+    src: url(../fonts/AvenirNext.ttc) format("truetype");
+}
+
+@font-face {
+    font-family: NotoSans-Bold;
+    src: url(../fonts/NotoSans-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: NotoSans-Regular;
+    src: url(../fonts/NotoSans-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: NotoSans-Regular;
+    src: url(../fonts/NotoSans-Regular.woff2) format("woff");
+}
+
+#ve_loading {
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -75px;
+    margin-left: -75px;
+}
+
+#ve_loading.msg {
+    width: 80%;
+    margin: 30px 0 0 0px;
+    position: relative;
+    top: 0;
+    left: 0;
+}

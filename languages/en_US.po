@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VePlatform\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-17 17:07+0100\n"
+"PO-Revision-Date: Fri Jul 01 2016 13:43:49 GMT+0300 (Eastern Europe Daylight "
+"Time)\n"
+"Last-Translator: \n"
+"Language-Team: Ve Interactive\n"
+"Language: en-GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB\n"
+"X-Poedit-SearchPath-0: C:/Vagrant/woocommerce/public/wordpress/wp-"
+"content/plugins/veplatform\n"
+"X-Poedit-SearchPathExcluded-0: C:/Vagrant/woocommerce/public/wordpress/wp-"
+"content/plugins/veplatform/languages\n"
+"X-Poedit-SearchPathExcluded-1: C:/Vagrant/woocommerce/public/wordpress/wp-"
+"content/plugins/veplatform/assets"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp- 
+#: content\plugins\veplatform/templates/admin/ve-error.php:38 
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:35
+msgid "VE_BEST_REGARDS"
+msgstr "Best regards,"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp- 
+#: content\plugins\veplatform/templates/admin/ve-error.php:52 
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:49 
+#: content\plugins\veplatform/templates/admin/ve-platform.php:166
+msgid "VE_COPY_RIGHTS"
+msgstr "&copy;"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp- 
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:27
+msgid "VE_THANK_YOU_FOR_SELECTING_APP"
+msgstr ""
+"Thank you for installing Ve. You are one step closer to increasing "
+"engagement and conversions on your website."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp- 
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:29
+msgid "VE_CREATIVE_EXAMPLES_APP"
+msgstr ""
+"Creative examples of our apps available to view <a target=\"_blank\" "
+"href=\"http://vecreative.veinteractive.com\" rel=\"nofollow\">here</a>."
+
+msgid "VE_COMPLETE"
+msgstr "Complete"
+
+msgid "VE_WSINSTALL_ERROR"
+msgstr "VePlatform could not be activated. Please try again later."
+
+msgid "VE_WSSETTINGS_ERROR"
+msgstr "Error accessing the settings page. Please try again later."
+
+msgid "VE_DEACTIVATE_ERR"
+msgstr "VePlatform could not be deactivated"
+
+msgid "VE_REQUIREMENT_UNMET"
+msgstr "The <strong>Ve for WooCommerce</strong> plugin requires WordPress version"
+
+msgid "VE_REQUIREMENT_GREATER"
+msgstr "or greater."
+
+msgid "VE_ONBOARDING"
+msgstr ""
+"You’ll start to receive on-boarding emails shortly, which will guide you "
+"through the process. You’ll be shown:"
+
+msgid "VE_HOWTO_ACCOUNT"
+msgstr "How to set up your account"
+
+msgid "VE_HOWTO_CAMPAIGN"
+msgstr "How to set up your first campaign"
+
+msgid "VE_BEST_PRACTICE"
+msgstr "Best practice tips & styling guides"
+
+msgid "VE_HOWTO_TRACK"
+msgstr "How to track & monitor performance"
+
+msgid "VE_ONBOARDING_CONTINUE"
+msgstr ""
+"<a href=\"https://my.veinteractive.com/SignUp/Details\" rel=\"nofollow\" "
+"target=\"_blank\">Click here</a> to continue the on-boarding process."
+
+msgid "VE_HELP"
+msgstr ""
+"For help at any point, please head to our support pages or contact our "
+"customer support team on:"
+
+msgid "VE_PHP_VERSION"
+msgstr "The <strong>Ve for WooCommerce</strong> plugin requires at least PHP Version 5.5.0 or above."
+
+msgid "VE_CURL_GD"
+msgstr "The <strong>Ve for WooCommerce</strong> plugin requires CURL and GD extensions."
+
+msgid "VE_WOO_MISSING"
+msgstr "The <strong>Ve for WooCommerce</strong> requires <strong>WooCommerce</strong> plugin to work normally. Please activate it or install it from <a href=\"http://wordpress.org/plugins/woocommerce/\" target=\"_blank\">here</a>."

@@ -1,0 +1,14 @@
+{
+    "name": "Ve Global",
+    "description": "The only automated marketing solution to solve your abandonment & conversion problems at every stage in the customer's journey.",
+    "homepage": "https://www.ve.com/",
+    "authors": [
+        {
+            "name": "Ve Global"
+        }
+    ],
+    "license": "proprietary",
+    "require": {
+            "microsoft/application-insights": "*"
+    }
+}
